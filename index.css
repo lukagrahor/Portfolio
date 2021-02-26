@@ -622,4 +622,5 @@ body:not(.user-is-tabbing) a:focus {
 }
 .slike{
 	opacity:0.8;
+	border:2px solid white;
 }
